@@ -1,3 +1,5 @@
+# Configuration of tmux
+
 Must be placed under the user's $HOME  
 To load the file:
 ```
